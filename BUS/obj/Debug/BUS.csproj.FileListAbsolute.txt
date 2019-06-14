@@ -1,0 +1,22 @@
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\BUS.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\BUS.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\DAL.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\DTO.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\DAL.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\bin\Debug\DTO.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\obj\Debug\BUS.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\BUS\obj\Debug\BUS.pdb
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\BUS.dll
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\BUS.pdb
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\DAL.dll
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\DTO.dll
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\DAL.pdb
+D:\Nam 2\buoi 2\lab2\BUS\bin\Debug\DTO.pdb
+D:\Nam 2\buoi 2\lab2\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Nam 2\buoi 2\lab2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Nam 2\buoi 2\lab2\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Nam 2\buoi 2\lab2\BUS\obj\Debug\BUS.dll
+D:\Nam 2\buoi 2\lab2\BUS\obj\Debug\BUS.pdb

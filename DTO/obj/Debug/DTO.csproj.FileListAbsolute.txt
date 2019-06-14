@@ -1,0 +1,12 @@
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\bin\Debug\DTO.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\bin\Debug\DTO.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\obj\Debug\DTO.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\obj\Debug\DTO.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Nam 2\buoi 2\lab2\DTO\bin\Debug\DTO.dll
+D:\Nam 2\buoi 2\lab2\DTO\bin\Debug\DTO.pdb
+D:\Nam 2\buoi 2\lab2\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Nam 2\buoi 2\lab2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Nam 2\buoi 2\lab2\DTO\obj\Debug\DTO.dll
+D:\Nam 2\buoi 2\lab2\DTO\obj\Debug\DTO.pdb

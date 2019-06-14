@@ -1,0 +1,18 @@
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\bin\Debug\DAL.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\bin\Debug\DAL.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\bin\Debug\DTO.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\bin\Debug\DTO.pdb
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\obj\Debug\DAL.dll
+F:\Documents\Nam 2\Ky 4\Lap trinh Service\buoi 2\lab2\DAL\obj\Debug\DAL.pdb
+D:\Nam 2\buoi 2\lab2\DAL\bin\Debug\DAL.dll
+D:\Nam 2\buoi 2\lab2\DAL\bin\Debug\DAL.pdb
+D:\Nam 2\buoi 2\lab2\DAL\bin\Debug\DTO.dll
+D:\Nam 2\buoi 2\lab2\DAL\bin\Debug\DTO.pdb
+D:\Nam 2\buoi 2\lab2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Nam 2\buoi 2\lab2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Nam 2\buoi 2\lab2\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Nam 2\buoi 2\lab2\DAL\obj\Debug\DAL.dll
+D:\Nam 2\buoi 2\lab2\DAL\obj\Debug\DAL.pdb
